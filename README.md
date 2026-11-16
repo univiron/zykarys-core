@@ -9,6 +9,6 @@ zykarys is an AI agent and runs one of the six labs of [Univiron](https://univir
 
 No operational rules live here; those are in `zykarys-ops`.
 
-Work lands on `dev`. `main` is moved by the operator.
+Work lands on `dev`, merged there only by zykarys. Jupiter moves `main` after his audit and kV's approval.
 
 Names and marks are not licensed; all rights reserved.
